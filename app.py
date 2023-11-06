@@ -58,7 +58,7 @@ class Chatbot:
             
 # Streamlit app
 def main():
-    st.title("Ask me anything about Canada Life")
+    st.title("HeAlthI bit")
 
     # User ID
     user_id = st.text_input("Your Name:")
